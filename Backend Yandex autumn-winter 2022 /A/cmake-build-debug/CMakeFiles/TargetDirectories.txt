@@ -1,0 +1,3 @@
+/home/daryz/Documents/Projects/Interships/Backend Yandex autumn-winter 2022 /A/cmake-build-debug/CMakeFiles/A.dir
+/home/daryz/Documents/Projects/Interships/Backend Yandex autumn-winter 2022 /A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daryz/Documents/Projects/Interships/Backend Yandex autumn-winter 2022 /A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
